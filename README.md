@@ -1,1 +1,1 @@
-# mybank
+# MyBank - Application de gestion de dépenses
